@@ -1,0 +1,737 @@
+italian,english
+gatto,cat
+cane,dog
+casa,house
+albero,tree
+fiore,flower
+libro,book
+mela,apple
+penna,pen
+tavolo,table
+sedia,chair
+finestra,window
+porta,door
+mano,hand
+piede,foot
+sole,sun
+luna,moon
+stella,star
+nuvola,cloud
+acqua,water
+vino,wine
+birra,beer
+caffè,coffee
+tè,tea
+latte,milk
+pane,bread
+burro,butter
+formaggio,cheese
+uovo,egg
+carne,meat
+pesce,fish
+pollo,chicken
+patata,potato
+carota,carrot
+banana,banana
+arancia,orange
+limone,lemon
+fragola,strawberry
+cioccolato,chocolate
+zucchero,sugar
+sale,salt
+piatto,plate
+cucchiaio,spoon
+forchetta,fork
+coltello,knife
+bicchiere,glass
+tazza,cup
+bottiglia,bottle
+valigia,suitcase
+zaino,backpack
+borsa,bag
+cappello,hat
+guanti,gloves
+sciarpa,scarf
+giacca,jacket
+camicia,shirt
+pantaloni,pants
+gonna,skirt
+vestito,dress
+scarpe,shoes
+calze,socks
+orologio,watch
+anello,ring
+collana,necklace
+orecchini,earrings
+ombrello,umbrella
+occhiali,glasses
+specchio,mirror
+pettine,comb
+spazzola,brush
+sapone,soap
+asciugamano,towel
+lenzuola,sheets
+cuscino,pillow
+materasso,mattress
+divano,sofa
+poltrona,armchair
+lampada,lamp
+televisione,television
+computer,computer
+cellulare,mobile phone
+chiave,key
+serratura,lock
+martello,hammer
+cacciavite,screwdriver
+pinze,pliers
+forbici,scissors
+nastro adesivo,tape
+colla,glue
+matita,pencil
+gomma,eraser
+righello,ruler
+temperino,sharpener
+quaderno,notebook
+calendario,calendar
+busta,envelope
+francobolli,stamps
+giornale,newspaper
+rivista,magazine
+dizionario,dictionary
+atlante,atlas
+mappa,map
+globo,globe
+bussola,compass
+orologio,clock
+sveglia,alarm clock
+candela,candle
+accendino,lighter
+fiammiferi,matches
+cenere,ash
+fuoco,fire
+ghiaccio,ice
+neve,snow
+pioggia,rain
+vento,wind
+tuono,thunder
+lampo,lightning
+arcobaleno,rainbow
+terra,earth
+montagna,mountain
+collina,hill
+valle,valley
+fiume,river
+lago,lake
+mare,sea
+oceano,ocean
+isola,island
+sabbia,sand
+roccia,rock
+pietra,stone
+cemento,cement
+mattone,brick
+legno,wood
+vetro,glass
+metallo,metal
+oro,gold
+argento,silver
+bronzo,bronze
+rame,copper
+ferro,iron
+acciaio,steel
+alluminio,aluminum
+plastica,plastic
+gomma,rubber
+carta,paper
+cartone,cardboard
+corda,rope
+filo,thread
+tessuto,fabric
+pelle,leather
+lana,wool
+cotone,cotton
+seta,silk
+pizzo,lace
+bottone,button
+cerniera,zipper
+ago,needle
+uncinetto,crochet
+ricamo,embroidery
+pittura,painting
+disegno,drawing
+scultura,sculpture
+fotografia,photography
+musica,music
+strumento,instrument
+chitarra,guitar
+violino,violin
+pianoforte,piano
+batteria,drums
+flauto,flute
+tromba,trumpet
+violoncello,cello
+sassofono,saxophone
+microfono,microphone
+danza,dance
+balletto,ballet
+teatro,theater
+film,movie
+poesia,poetry
+romanzo,novel
+racconto,story
+favola,fable
+gioco,game
+puzzle,puzzle
+bambola,doll
+orsacchiotto,teddy bear
+palla,ball
+freccette,darts
+scacchi,chess
+calcio,soccer
+basket,basketball
+tennis,tennis
+nuoto,swimming
+corsa,run
+bicicletta,bicycle
+automobile,car
+treno,train
+aeroplano,airplane
+nave,ship
+camion,truck
+motocicletta,motorcycle
+barca,boat
+canoa,canoe
+remo,oar
+vela,sail
+timone,rudder
+ancora,anchor
+faro,lighthouse
+segnaletica,signs
+cartello,sign
+semaforo,traffic light
+parcheggio,parking
+fermata,stop
+biglietto,ticket
+taxi,taxi
+autobus,bus
+metro,subway
+stazione,station
+aeroporto,airport
+porto,port
+doccia,shower
+vasca,bathtub
+rubinetto,faucet
+doccetta,shower head
+shampoo,shampoo
+dentifricio,toothpaste
+spazzolino,toothbrush
+rasoio,razor
+asciugacapelli,hair dryer
+accappatoio,bathrobe
+spugna,sponge
+secchio,bucket
+mocio,mop
+scopa,broom
+paletta,dustpan
+aspirapolvere,vacuum cleaner
+detersivo,detergent
+candeggina,bleach
+ammorbidente,fabric softener
+ferro da stiro,iron
+asse da stiro,ironing board
+lavanderia,laundry
+bucato,laundry
+stendino,clothesline
+molletta,clothespin
+scrivania,desk
+libreria,bookcase
+comodino,nightstand
+cassettiera,dresser
+armadio,wardrobe
+letto,bed
+coperta,blanket
+tenda,curtain
+tappeto,carpet
+tovaglia,tablecloth
+tovagliolo,napkin
+pentola,pot
+padella,pan
+tagliere,cutting board
+grattugia,grater
+frullatore,blender
+forno,oven
+fornello,stove
+frigorifero,refrigerator
+congelatore,freezer
+bollitore,kettle
+tostapane,toaster
+forno a microonde,microwave
+lavastoviglie,dishwasher
+mestolo,ladle
+apriscatole,can opener
+schiaccianoci,nutcracker
+cavatappi,corkscrew
+macina caffè,coffee grinder
+macina pepe,pepper mill
+mortaio,mortar
+pestello,pestle
+bilancia,scale
+timer,timer
+tovaglietta,placemat
+sottobicchiere,coaster
+teglia,baking tray
+padella,skillet
+pentola a pressione,pressure cooker
+insalatiera,salad bowl
+scodella,bowl
+piatto piano,plate
+piatto fondo,bowl
+ciotola,bowl
+zuccheriera,sugar bowl
+lattiera,creamer
+oleiera,oil cruet
+aceto,vinegar
+olio,oil
+pepe,pepper
+erbe aromatiche,herbs
+spezie,spices
+aglio,garlic
+cipolla,onion
+pomodoro,tomato
+cetriolo,cucumber
+melanzana,eggplant
+zucchina,zucchini
+peperone,pepper
+cavolfiore,cauliflower
+broccoli,broccoli
+spinaci,spinach
+lattuga,lettuce
+rucola,arugula
+radicchio,radicchio
+cavolo,cabbage
+tastiera,keyboard
+mouse,mouse
+altoparlante,speaker
+auricolare,headphones
+fotocamera,camera
+videocamera,video camera
+proiettore,projector
+schermo,screen
+colori,colors
+pennello,brush
+tela,canvas
+pastelli,crayons
+gesso,chalk
+lavagna,blackboard
+borraccia,water bottle
+zainetto,backpack
+astuccio,pencil case
+diario,diary
+fumetto,comic book
+stivali,boots
+calzini,socks
+cintura,belt
+bretelle,suspenders
+cravatta,tie
+papillon,bow tie
+maglietta,t-shirt
+maglione,sweater
+cappotto,coat
+giubbotto,jacket
+foulard,scarf
+braccialetto,bracelet
+portafoglio,wallet
+borsetta,purse
+trolley,trolley
+ombrellone,beach umbrella
+telo mare,beach towel
+costume da bagno,swimsuit
+pinne,fins
+maschera,mask
+boccaglio,snorkel
+pallone,ball
+racchetta,racket
+pattini,skates
+sci,skis
+snowboard,snowboard
+casco,helmet
+tenda,tent
+sacco a pelo,sleeping bag
+torcia,flashlight
+binocolo,binoculars
+macchina fotografica,camera
+telecomando,remote control
+lettore cd,cd player
+lettore dvd,dvd player
+videogame,video game
+yo-yo,yo-yo
+aquilone,kite
+frisbee,frisbee
+damigiana,demijohn
+barattolo,jar
+scatola,box
+vaso,vase
+frusta,whisk
+posate,cutlery
+bricco,kettle
+caffettiera,coffee maker
+aspirapolverere,vacuum cleaner
+strofinaccio,rag
+fiammifero,match
+cuccia,doghouse
+lettiera,litter box
+guinzaglio,leash
+osso,bone
+giocattolo,toy
+ciuccio,pacifier
+biberon,baby bottle
+carrozzina,stroller
+seggiolino auto,car seat
+palestrina,crib
+lettino,cot
+fasciatoio,changing table
+bavaglino,bib
+scalda biberon,bottle warmer
+piumino,duvet
+federa,pillowcase
+copriletto,bedspread
+lampadina,lightbulb
+abat-jour,lamp shade
+interruttore,switch
+presa,outlet
+cavo,cable
+telefono,telephone
+lavandino,sink
+zuppiera,tureen
+spremiaglio,garlic press
+ramazza,dustpan brush
+vaporizzatore,spray bottle
+riccio,curler
+pinzette,tweezers
+lima,file
+arricciacapelli,curling iron
+spazzola per capelli,hairbrush
+parannanze,curler
+elastico,hair tie
+fermacapelli,hair clip
+cerchietto,headband
+mascara,mascara
+rossetto,lipstick
+lucidalabbra,lip gloss
+ombretti,eyeshadow
+matita per occhi,eyeliner
+profumo,perfume
+crema,cream
+balsamo,balm
+trucco,makeup
+portacandele,candlestick
+tavolino,side table
+tappeto,rug
+quadro,painting
+cornice,frame
+soprammobile,knickknack
+pianta,plant
+gara,race
+stadio,stadium
+guerra,war
+pace,peace
+squadra,team
+segnale,sign
+garage,garage
+stazione di servizio,gas station
+benzinaio,gas station attendant
+carburante,fuel
+pedaggio,toll
+autostrada,highway
+cavalcavia,overpass
+rotonda,roundabout
+svincolo,exit
+galleria,tunnel
+ponte,bridge
+imbottigliamento,traffic jam
+guida,driving
+volante,steering wheel
+freno,brake
+acceleratore,accelerator
+specchietto,mirror
+finestrino,window
+tergicristallo,windshield wiper
+tergicristalli,windshield wipers
+paraurti,bumper
+cerchio,wheel
+pneumatico,tire
+ruota di scorta,spare tire
+cambio,gear
+serbatoio,fuel tank
+tappo del serbatoio,fuel cap
+marmitta,muffler
+cintura di sicurezza,seatbelt
+airbag,airbag
+clacson,horn
+faro,headlight
+freccia,turn signal
+retrovisore,rearview mirror
+tergifari,headlight wiper
+motorino,scooter
+pesi,weights
+medaglia,medal
+coppa,trophy
+podio,podium
+vittoria,victory
+campo,field
+rete,net
+palla da tennis,tennis ball
+boccetta,bowling ball
+portiere,goalkeeper
+arbitro,referee
+rigore,penalty
+cartellino giallo,yellow card
+cartellino rosso,red card
+espulsione,sending off
+fuorigioco,offside
+hockey,hockey
+punteggio,score
+gol,goal
+giocatore,player
+allenatore,coach
+tifoso,fan
+bandiera,flag
+cronometro,stopwatch
+infortunio,injury
+dottore,doctor
+ospedale,hospital
+ambulanza,ambulance
+cerotto,band-aid
+termometro,thermometer
+pillola,pill
+siringa,syringe
+vaccino,vaccine
+radiografia,x-ray
+stampelle,crutches
+sedia a rotelle,wheelchair
+lenti a contatto,contact lenses
+filo interdentale,floss
+collutorio,mouthwash
+spazzolino,brush
+amico,friend
+animale,animal
+anno,year
+bagno,bathroom
+bambina,girl
+bambino,boy
+bere,to drink
+biblioteca,library
+braccio,arm
+caramella,candy
+castello,castle
+cavallo,horse
+chiesa,church
+cioccolata,chocolate
+città,city
+cucina,kitchen
+cugino,cousin
+denti,teeth
+donna,woman
+due,two
+erba,grass
+estate,summer
+euro,euro
+faccia,face
+fare,to do/make
+festa,party
+fidanzato,boyfriend
+fratello,brother
+freddo,cold
+frutta,fruit
+gamba,leg
+gelato,ice cream
+giocare,to play
+gioco,game/toy
+giorno,day
+maglia,sweater
+mamma,mom
+mangiare,to eat
+mattina,morning
+melone,melon
+naso,nose
+notte,night
+nove,nine
+occhio,eye
+oggi,today
+ora,hour
+orecchio,ear
+papà,dad
+parlare,to speak
+piangere,to cry
+piccolo,small
+pizza,pizza
+prato,meadow
+quattro,four
+ragazza,girl
+ragazzo,boy
+regina,queen
+respiro,breath
+ridere,to laugh
+riso,rice
+rosso,red
+salire,to go up/climb
+scarpa,shoe
+scrivere,to write
+scuola,school
+sedici,sixteen
+sei,six
+sette,seven
+sorriso,smile
+strada,street
+studente,student
+studiare,to study
+tavola,table
+testa,head
+tre,three
+undici,eleven
+uno,one
+uomo,man
+abbigliamento,clothing
+acconciatura,hairstyle
+affitto,rent
+albergo,hotel
+andata,departure
+appetito,appetite
+appuntamento,appointment
+artista,artist
+ascensore,elevator
+asilo,nursery school
+assicurazione,insurance
+azienda,company
+bagaglio,luggage
+balcone,balcony
+banca,bank
+bancomat,ATM
+bar,bar
+barista,bartender
+batteria,battery
+benzinaio,gas station
+biliardo,billiards
+borsa di studio,scholarship
+bosco,forest
+bravura,skill
+bugia,lie
+calore,heat
+calura,heat
+cameriera,waitress
+cameriere,waiter
+campagna,countryside
+canale,channel
+cancello,gate
+cantina,cellar
+capolavoro,masterpiece
+carabinieri,police
+carriera,career
+cartolina,postcard
+casetta,cottage
+catalogo,catalog
+cattedrale,cathedral
+cattivo,bad
+cauzione,deposit
+cena,dinner
+centro commerciale,shopping mall
+cerimonia,ceremony
+champagne,champagne
+cioccolatino,chocolate
+collezione,collection
+colore,color
+colpa,fault
+commedia,comedy
+comunicazione,communication
+concerto,concert
+congedo,leave
+consolazione,consolation
+consulenza,advice
+coppia,couple
+coraggioso,brave
+corridoio,hallway
+corrispondenza,correspondence
+cortesia,courtesy
+cortile,courtyard
+costo,cost
+cottura,cooking
+credito,credit
+cultura,culture
+debito,debt
+decorazione,decoration
+denaro,money
+dentista,dentist
+deposito,deposit
+deserto,desert
+desiderio,desire
+devozione,devotion
+diritto,right
+distrazione,distraction
+dolore,pain
+domestico,domestic
+domicilio,home
+donazione,donation
+dubbio,doubt
+edificio,building
+emozione,emotion
+entrata,entrance
+eroe,hero
+errore,mistake
+esempio,example
+esperienza,experience
+espressione,expression
+fallimento,failure
+famiglia,family
+fan,fan
+fango,mud
+fatica,fatigue
+felicità,happiness
+felpa,sweatshirt
+figura,figure
+fila,line
+fioraio,florist
+fischio,whistle
+fisico,physical
+foresta,forest
+fortuna,luck
+francobollo,stamp
+freccia,arrow
+frontiera,border
+funzione,function
+furto,theft
+galassia,galaxy
+genio,genius
+gesto,gesture
+ginocchio,knee
+gioia,joy
+giostra,merry-go-round
+gita,trip
+guadagno,profit
+guaio,trouble
+guancia,cheek
+guanto,glove
+guardia,guard
+gusto,taste
+spazio,space
+universo,universe
+pianeta,planet
+cometa,comet
+astronave,spacecraft
+astronauta,astronaut
+razzi,rockets
+satellite,satellite
+telescopio,telescope
+orbita,orbit
+gravità,gravity
+vuoto,vacuum
+meteora,meteor
+stazione spaziale,space station
+sonda,probe
+lancio,launch
+atmosfera,atmosphere
+buco nero,black hole
+planet,pianeta
+lavatrice,washing machine
+asciugatrice,dryer
+The Beatles,The Beatles
+Vasco Rossi,Vasco Rossi
