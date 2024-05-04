@@ -37,7 +37,7 @@ function App() {
       <header className="App-header">
         {!!activeWord && (
           <Typography variant="h3" pb={2} sx={{ fontSize: "1rem" }}>
-            {60 - timer} Secondi Rimangono
+            Rimangono {60 - timer} Secondi
           </Typography>
         )}
         {!!activeWord && (
@@ -60,7 +60,7 @@ function App() {
             sx={{ fontSize: "1.1rem" }}
             onClick={nextWord}
           >
-            {!activeWord ? "Portami una Parola" : "Portami un'altra Parola"}
+            {!activeWord ? "Dammi una Parola" : "Dammi un'altra Parola"}
           </Button>
         </Box>
       </header>
